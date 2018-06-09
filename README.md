@@ -1,16 +1,23 @@
 # Pixel Art Maker Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+This is a one-web application that lets a user draw an image on customizable panel.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+* User is able to set the the size of the table as an N and M grid.
+* Choose a color.
+* Click a cell in the grid to fill that cell with the chosen color.
 
-## Contributing
+## Built With
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* HTML
+* CSS
+* JavaScript
+
+## Author
+
+* [Paul Carrillo](https://www.linkedin.com/in/paul-carrillo/)
+
+## License
+
+MIT
